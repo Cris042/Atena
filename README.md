@@ -13,4 +13,4 @@ Este documento oferece uma visão abrangente dos pontos finais e funcionalidades
 - Gestão de livros.
 - Criação de áreas distintas para professores, alunos e secretários.
 
-# Projeto feito em 2019
+### @2019
