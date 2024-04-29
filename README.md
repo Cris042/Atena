@@ -1,6 +1,6 @@
 # Documentação
 
-Este documento oferece uma visão abrangente dos pontos finais e funcionalidades para um sistema academico.O projeto envolve a criação de um abrangente sistema escolar monolítico em PHP, que inclui as seguintes funcionalidades:
+Este documento oferece uma visão abrangente dos pontos finais e funcionalidades para um sistema academico. O projeto envolve a criação de um sistema escolar monolítico em PHP, que inclui as seguintes funcionalidades:
 
 - Gerenciamento de turmas.
 - Registro de notas.
