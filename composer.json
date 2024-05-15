@@ -1,6 +1,6 @@
 {
-  "name": "atena",
-  "description": "atena",
+  "name": "mpdf/mpdf",
+  "description": "Este pacote gera PDFs usando a biblioteca mPDF",
   "license": "MIT",
   "require": {
     "mpdf/mpdf": "^8.0"
