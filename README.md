@@ -15,8 +15,9 @@ Este documento oferece uma visão abrangente dos pontos finais e funcionalidades
 
 Projeto feito em 2019
 
-#Acesso 
-secretaria@legado.atena.local 
-000000 
-vdyjZCmxJ4ZrNgIQRGKkztdlr2MXuRGn_R9n3XNFLIWilc5n
+# Acesso 
+
+- E-mail : secretaria@legado.atena.local 
+- Mat : 000000 
+- Senha : vdyjZCmxJ4ZrNgIQRGKkztdlr2MXuRGn_R9n3XNFLIWilc5n
 
